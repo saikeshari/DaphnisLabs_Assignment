@@ -1,0 +1,48 @@
+.cardBox{
+    padding: 0 !important;
+    border-radius: 0.8rem !important;
+    border:0.5px solid #9C9C9C !important;
+    border-bottom: 1rem solid #750B0B !important;
+}
+
+.cardHead{
+    font-size: 0.8rem !important;
+    font-weight: 700 !important;
+}
+
+.cardPrice{
+    color: #7B0717 !important;
+    font-size: 1.1rem !important;
+    font-weight: 700 !important;
+}
+
+.priceStripe{
+    color: #696969 !important;
+}
+
+.pharmaName{
+    font-size: 0.8rem !important;
+    font-weight: 700 !important;
+    margin-top: 1rem !important;
+}
+
+.pharmaLocation{
+    color: #696969 !important;
+    font-size: 0.7rem !important;
+    font-weight: 600 !important;
+}
+
+.contactSup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#00A69C;
+    width: 100%;
+    padding-top: 0.6rem;
+    font-weight: 700 !important;
+}
+
+.contentCard{
+    padding: 0 !important;
+    padding-bottom: 0.6rem !important;
+}

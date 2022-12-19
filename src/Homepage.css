@@ -1,0 +1,32 @@
+.homepageBox{
+    padding: 1rem;
+    background-color: #F5F5F5;
+}
+
+.searchBox{
+    margin-top: 0.5rem;
+    display: flex;
+}
+
+.searchResult{
+    margin-top: 1rem;
+    display: flex;
+    align-items: flex-end;
+}
+
+.searchResultText{
+    font-weight: 400 !important;
+    font-size: 1.2rem !important;
+}
+
+.searchResultsBox {
+    font-size: 0.7rem !important;
+    padding: 0.2rem !important;
+    padding-left: 0.3rem !important;
+    padding-right: 0.3rem !important;
+    text-transform: none !important;
+}
+
+.searchResultsRemove{
+    font-size: 0.8rem !important;
+}

@@ -1,0 +1,36 @@
+.headListItem {
+    background-color: #D9D9D9;
+}
+
+.highlightListItem{
+    background-color: #00A69C;
+}
+
+.basicListItem{
+    background-color: white;
+}
+
+.listItemHeadBtn {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.listItemBtn{
+    padding: 0 !important;
+    margin: 0 !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0.3rem !important;
+    padding-top: 0.2rem !important;
+}
+
+.listItemText{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    min-width: 100% !important;
+}
+
+.closeIcn{
+    font-size: 0.8rem !important;
+    color: white;
+}

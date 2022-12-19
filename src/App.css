@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  letter-spacing: 0 !important;
 }
 
 .App-logo {
@@ -35,4 +36,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.TextField-without-border-radius fieldset {
+  border-radius: 0;
+  border-top-left-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem;
+}
+
+.Button-without-border-radius {
+  border-radius: 0 !important;
+  border-top-right-radius: 0.2rem !important;
+  border-bottom-right-radius: 0.2rem !important;
+  text-transform: none !important;
 }
